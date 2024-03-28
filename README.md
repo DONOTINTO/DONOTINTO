@@ -2,7 +2,7 @@
 🐧 **이중엽 (JungYeob Lee)**   
 🏫 **Kookmin Univ.**  <sub>14.03 - 20.08</sub>
 
-**[DoT - 여행 가계부] 어플리케이션 출시**<sub>24.03.24 ~ now</sub>   
+**[DoT - 여행 가계부](https://apps.apple.com/kr/app/dot-%EC%97%AC%ED%96%89-%EA%B0%80%EA%B3%84%EB%B6%80/id6479473950) 어플리케이션 출시**<sub>24.03.24 ~ now</sub>   
 **SeSAC iOS 앱 개발자 데뷔과정 PLUS**<sub>23.12.22 ~ now</sub>   
 
 ---
