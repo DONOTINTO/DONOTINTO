@@ -9,4 +9,9 @@
 <a href="https://velog.io/@donotinto/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=F1F1F1"/></a>
 <a href="https://www.instagram.com/donotinto_?igsh=MXBoeGw0bmU5amE4Zg%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/donotinto_-0060D1?style=flat-square&logo=Instagram&logoColor=F1F1F1"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=F1F1F1"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=F1F1F1"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=F1F1F1"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=F1F1F1"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Git-50A901?style=flat-square&logo=git&logoColor=F1F1F1"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=F1F1F1"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Figma-673AB8?style=flat-square&logo=figma&logoColor=F1F1F1"/></a>
