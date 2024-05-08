@@ -2,8 +2,9 @@
 🐧 **이중엽 (JungYeob Lee)**   
 🏫 **Kookmin Univ.**  <sub>14.03 - 20.08</sub>
 
-**[DoT - 여행 가계부](https://apps.apple.com/kr/app/dot-%EC%97%AC%ED%96%89-%EA%B0%80%EA%B3%84%EB%B6%80/id6479473950) 어플리케이션 출시**<sub>24.03.08 ~ 24.03.24</sub>   
-**SeSAC iOS 앱 개발자 데뷔과정 PLUS**<sub>23.12.22 ~ now</sub>   
+**Crewous - 농구 크루원 모집 및 가입 어플(개인 앱 포트폴리오)** <sub>24.04.10 ~ 24.05.05</sub>     
+**[DoT - 여행 가계부](https://apps.apple.com/kr/app/dot-%EC%97%AC%ED%96%89-%EA%B0%80%EA%B3%84%EB%B6%80/id6479473950) 어플리케이션 출시** <sub>24.03.08 ~ 24.03.24</sub>   
+**SeSAC iOS 앱 개발자 데뷔과정 PLUS** <sub>23.12.22 ~ now</sub>   
 
 ---
 <a target="_blank"><img src="https://img.shields.io/badge/goods99j@gmail.com-506365?style=flat-square&logo=maildotru&logoColor=F1F1F1"/></a>
